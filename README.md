@@ -1,7 +1,7 @@
 # CODSOFT
 Projects made for the CODSOFT internship tasks
 
-🎬 Movie Genre Classification
+Task1: 🎬 Movie Genre Classification
 
 This project classifies movie plots into genres using Support Vector Machines (SVM). The dataset is based on IMDb movie descriptions, and includes multiple genres like drama, comedy, horror, and more.
 
@@ -43,7 +43,7 @@ Evaluation includes:
 Created by **Shlok Nair** 
 
 
-📱 Spam SMS Detection
+Task2: 📱 Spam SMS Detection
 
 A simple yet effective machine learning project that classifies SMS messages as **Spam** or **Ham (Not Spam)** using natural language processing and a Naive Bayes model.
 
@@ -77,7 +77,7 @@ Used **Multinomial Naive Bayes** — fast, interpretable, and surprisingly accur
 Created by **Shlok Nair** 
 
 
-💳 Credit Card Fraud Detection
+Task3: 💳 Credit Card Fraud Detection
 
 A machine learning project that detects fraudulent credit card transactions using Logistic Regression on real-world transaction data.
 
@@ -119,8 +119,7 @@ Visualizations included:
 - Apply **SMOTE** or **ADASYN** for better handling of data imbalance
 - Deploy the model as a REST API for real-time fraud detection
 
----
 
-Created by **Shlok Nair** ☕🤖
+Created by Shlok Nair
 
 
